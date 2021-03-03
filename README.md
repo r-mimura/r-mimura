@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m a graduate student studying computer science.
+- ✍️ I’m a graduate student studying computer science.
+- 🕺 I'm interested in software development.
+- 🌱 My research is in optimization and evolutionary computation.
+- 🛠 I'm learning golang and AWS.
+- 🥢 Part-time job at Future Co (2019.5 ~ ).
 
 <!--
 **r-mimura/r-mimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
