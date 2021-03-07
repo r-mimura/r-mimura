@@ -5,10 +5,13 @@
 - 🌱 My research is in optimization and evolutionary computation.
 - 🛠 I'm learning golang and AWS.
 - 🥢 Part-time job at Future Co (2019.5 ~ ).
+- 💻 My hobby is Competitive programming. 
+
+
 
 <!--
 **r-mimura/r-mimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Badge](https://cp-logo.vercel.app/atcoder/killerrk)
 Here are some ideas to get you started:
 
 
