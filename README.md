@@ -3,7 +3,7 @@
 - ✍️ I’m a graduate student studying computer science.
 - 🕺 I'm interested in software development.
 - 🌱 My research is in optimization and evolutionary computation.
-- 🛠 I'm learning golang and AWS.
+- 🛠 I'm learning golang and AWS well-architected.
 - 🥢 Part-time job at Future Co (2019.5 ~ ).
 - 💻 My hobby is Competitive programming. 
 
